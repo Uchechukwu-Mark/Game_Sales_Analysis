@@ -18,7 +18,7 @@ Within the dataset's timeframe spanning from 1980 to 2018, several significant i
 
 2. **Pinnacle Sales Year:** Globally, 2008 stands out as the year with the highest sales, totaling 671 million units. This year, perhaps influenced by blockbuster game releases or platform advancements, witnessed remarkable success.
 
-3. **Publisher Dominance:** Electronic Arts emerged as the most prolific publisher, with a catalogue of 1,344 games. Notably, Nintendo claimed the throne for the highest number of units sold during the review period, indicating a winning strategy in capturing the market.
+3. **Publisher Dominance:** Electronic Arts emerged as the most prolific publisher, with a catalog of 1,344 games. Notably, Nintendo claimed the throne for the highest number of units sold during the review period, indicating a winning strategy in capturing the market.
 
 4. **Platform Supremacy:** The PlayStation 2 reigned supreme as the platform with the highest unit sales, boasting an impressive 1.233 billion units sold. Xbox followed closely with 961 million units. These findings reflect the enduring appeal of these platforms.
 
@@ -34,4 +34,4 @@ The project encountered limitations in performing an in-depth regional compariso
 
 **Future Prospects:**
 
-Looking ahead, this project lays the foundation for future analyses. As the gaming industry continues to evolve with the entry of new publishing companies and the emergence of innovative gaming platforms like smartphones, we anticipate conducting further analyses to determine the most successful platforms and genre trends. This will ensure our insights remain current and valuable in a dynamic and ever-changing industry.
+Looking ahead, this project lays the foundation for future analysis. As the gaming industry continues to evolve with the entry of new publishing companies and the emergence of innovative gaming platforms like smartphones, we anticipate conducting further analysis to determine the most successful platforms and genre trends. This will ensure our insights remain current and valuable in a dynamic and ever-changing industry.
