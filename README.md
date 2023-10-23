@@ -1,7 +1,6 @@
 # Game_Sales_Analysis
 
-
-**Project Description: Exploratory Analysis of Global Game Sales**
+**Exploratory Analysis of Global Game Sales**
 
 **Introduction:**
 
